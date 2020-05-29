@@ -1,6 +1,6 @@
 # Scrapping-Stock_market-data-
 
 requirement:
-requests
-pandas
-sys
+1 requests
+2 pandas
+3 sys
